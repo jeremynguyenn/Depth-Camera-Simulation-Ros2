@@ -1,7 +1,7 @@
 # Depth Camera Simulation: RealSense D435 and Xema-S 
 
-![cover.png](assets/cover.png)
-![cover-2.png](assets/cover-2.png)
+![cover.png](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/cover.png)
+![cover-2.png](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/cover-2.png)
 
 ![ROS2 Humble](https://img.shields.io/badge/ROS-humble-blue?logo=ROS&ROS=humble)
 ![Gazebo Ignition Fortress](https://img.shields.io/badge/Gazebo-Fortress-orange)
@@ -66,7 +66,7 @@ git clone https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2.git
 
 3. **Copy to Home Directory**
 ```bash
-# Ensure you're in the Home directory where you have your workspaces. Copy d435_ws into home from Depth_Camera_Simulation folder.
+# Please make sure you're in the Home directory where you have your workspaces. Copy d435_ws into home from the Depth_Camera_Simulation folder.
 cp -r d435_ws ~/
 ```
 
@@ -102,12 +102,12 @@ ros2 launch depth_d435 one_robot_ign_launch.py
 
 ### Visualization Examples
 
-![blender-1](assets/blender-1.png)
+![blender-1](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/blender-1.png)
 ### Intel RealSense D435 DAE File
 
-![depth-d435](assets/depth-d435.png)
-![depth-d435-2](assets/depth-d435-2.png)
-![depth-d435-3](assets/depth-d435-3.png)
+![depth-d435](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-d435.png)
+![depth-d435-2](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-d435-2.png)
+![depth-d435-3](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-d435-3.png)
 
 #### Demonstration Video
 https://github.com/user-attachments/assets/6a620f1a-3d72-453e-939d-b562cd7cb084
@@ -159,14 +159,14 @@ ros2 launch xema_s one_robot_ign_launch.py
 
 ### Visualization Examples
 
-![blender-2](assets/blender-2.png)
+![blender-2](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/blender-2.png)
 ### Open3D's XEMA-S DAE File
 
-![depth-xema](assets/depth-xema.png)
+![depth-xema](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-xema.png)
 
-![depth-xema-2](assets/depth-xema-2.png)
+![depth-xema-2](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-xema-2.png)
 
-![depth-xema-3](assets/depth-xema-3.png)
+![depth-xema-3](https://github.com/jeremynguyenn/Depth-Camera-Simulation-Ros2/blob/main/RealSense%20D435%20and%20Xema-S/assets/depth-xema-3.png)
 
 
 ## Advanced Configuration
